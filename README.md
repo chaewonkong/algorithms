@@ -240,4 +240,4 @@ Algorithms for projecteuler.net
 
 ## files
 ### codewars
-1. descendingOrder.ts: Descending Order
+1. [descendingOrder](https://github.com/ChaeWonKong/algorithms/blob/master/typescript/codewars/descendingOrder.ts).ts: Descending Order
