@@ -17,6 +17,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 - :file_folder: [etc](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/etc): Algorithms that are not sorted yet.
 - :file_folder: [project_euler](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/project_euler): Solutions for algorithms from Proejct Euler(https://projecteuler.net/) website.
 - :file_folder: [recursion](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/recursion)
+- :file_folder: [divide_and_conquer](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/recursion): Divide and conquer algorithms
 <br><br>
 ---
 
@@ -194,7 +195,10 @@ Algorithms for projecteuler.net
 
 ### Recursion
 1. [is_palindrome.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/recursion/is_palindrome.py)
-2. [letter_permutation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/letter_permutation.py)
+2. [letter_permutation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/recursion/letter_permutation.py)
+
+### divide_and_conquer
+2. [fast_sum.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/divide_and_conquer/fast_sum.py)
 
 
 
