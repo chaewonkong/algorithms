@@ -198,7 +198,7 @@ Algorithms for projecteuler.net
 2. [letter_permutation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/recursion/letter_permutation.py)
 
 ### divide_and_conquer
-2. [fast_sum.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/divide_and_conquer/fast_sum.py)
+2. [fast_sum.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/divide_and_conquer/fast_sum.py): fast sum using divide and conquer.
 
 
 
@@ -245,3 +245,4 @@ Algorithms for projecteuler.net
 ## files
 ### codewars
 1. [descendingOrder](https://github.com/ChaeWonKong/algorithms/blob/master/typescript/codewars/descendingOrder.ts).ts: Descending Order
+2. 2. [findNeedle.ts](https://github.com/ChaeWonKong/algorithms/blob/master/typescript/codewars/findNeedle.ts): A Needle in the Haystack
