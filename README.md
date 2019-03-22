@@ -164,7 +164,8 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 12. [sieve_eratosthenes.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/sieve_eratosthenes.py)
 13. [tower_of_hanoi.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/tower_of_hanoi.py)
 14. [zero_in_factorial.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/zero_in_factorial.py): Continuous trailing zeros in n factorial.
-15. [permutation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/zero_in_factorial.py): All possible combinations with order(permutation)
+15. [permutation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/permutation.py): All possible combinations with order(permutation)
+16. [fibonacci.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/fibonacci.py): Fibonacci Algorithms in Python
 
 <br><br>
 ### Project Euler
