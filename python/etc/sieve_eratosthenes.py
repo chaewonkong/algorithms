@@ -4,22 +4,12 @@ For given n,
 return a list contains only prime numbers below n"""
 
 
-import time
-
-
 def sieve(n):
-	"""Return list of prime numbers less than equal to n"""
-
-	results = [1 for _ in range(n+1)]
-	results[0], results[1] = 0, 0
-
-	div = 2
-	while div <= n // 2 + 1:
-		for i in range(div * div, n+1, div):
-			if results[i] == 0:
-				continue
-			else:
-				results[i] = 0
-		div += 1
-
-	return [i for i in range(len(results)) if results[i] == 1]
+	"""return list of all primes less than equal to n"""
+	primes = [1] * (n+1)
+	primes[0], primes[1] = 0, 0
+	for i in range(2, int(n**0.5)+1):
+		if primes[i]:
+			for j in range(2*i, n+1, i):
+				primes[j] = 0
+	return [idx for idx in range(n+1) if primes[idx] == 1]
