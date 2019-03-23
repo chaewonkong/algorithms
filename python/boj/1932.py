@@ -32,20 +32,18 @@ from sys import stdin
 
 
 def max_path_sum(triangle):
-    cache = [[0 for _ in item] for item in triangle]
+    cache = [[0 for _ in row] for row in triangle]
     length = len(cache)
 
-    for i in range(length):
-        for j in range(i+1):
-            if i-1 >= 0:
-                if j-1>= 0 and i>j:
+    cache[0] = triangle[0]
+    for i in range(1, length):
+        for j in range(i+1): 
+            if i > j and j-1 >= 0:
                     cache[i][j] = max(cache[i-1][j-1], cache[i-1][j]) + triangle[i][j]
-                elif j-1>= 0:
-                    cache[i][j] = cache[i-1][j-1] + triangle[i][j]
-                else:
-                    cache[i][j] = cache[i-1][j] + triangle[i][j]
-            else:
-                cache[i][j] = triangle[i][j]
+            elif i-1 >= 0 and j-1>= 0:
+                cache[i][j] = cache[i-1][j-1] + triangle[i][j]
+            elif i-1 >= 0:
+                cache[i][j] = cache[i-1][j] + triangle[i][j]
     return max(cache[-1])
 
 
