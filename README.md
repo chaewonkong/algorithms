@@ -79,6 +79,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 43. [1038.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1038.py): 감소하는 수
 44. [7576.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/7576.py): 토마토
 45. [1932.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1932.py): 정수 삼각형
+46. [1003.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1003.py): 피보나치 함수
 
 <br><br>
 ### CodeWars
