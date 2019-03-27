@@ -20,16 +20,8 @@ Return nil if there is no 2nd largest integer. Take care of big numbers as well
 """
 
 def find_2nd_largest(arr):
-    integers = [n for n in filter(lambda x: type(x) == int, arr)]
-    if not integers:
-        return None
-    first = second = min(integers)
-    for num in integers:
-        if num > first:
-            first, second = num, first
-        elif num > second and num < first:
-            second = num
-    return None if first == second else second
+    integers = sorted(list(set(n for n in filter(lambda x: type(x) == int, arr))))
+    return None if len(integers) < 2 else integers[-2]
 
 print(find_2nd_largest([1,'a','2',3,3,3333333333333333333334,544444444444444444444444444444,'b']))
 print(find_2nd_largest([1,1,1,1,1,1,1]))
