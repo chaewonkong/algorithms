@@ -34,15 +34,3 @@ def isPP(n):
             if target == 1:
                 return [div, count]
     return None
-
-
-# for i in [1, 4, 8, 27, 125, 256, 81, 243]:
-#     if isPP(i) != -1:
-#         m, k = isPP(i)
-#         if (m ** k) == i:
-#             print(True)
-#         else:
-#             print(False)
-#     else:
-#         print(False) 
-print(isPP(4))
