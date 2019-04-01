@@ -110,6 +110,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 24. [shortest_path.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/short_path.py): Path Finder #2: shortest path
 25. [number_combos.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/number_combos.py): Find all possible number combos that sum to a number
 26. [2nd_largest_int.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/2nd_largest_int.py): Find the 2nd largest integer in array
+27. [is_perfect_power.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/is_perfect_power.py): What's a Perfect Power anyway?
 
 
 
