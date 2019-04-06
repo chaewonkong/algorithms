@@ -234,6 +234,7 @@ Algorithms for projecteuler.net
 4. [twoFighters.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/twoFighters.js): Create a function that returns the name of the winner in a fight between two fighters.
 5. [complementaryDna.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/complementaryDna.js): In DNA strings, symbols "A" and "T" are complements of each other, as "C" and "G". You have function with one side of the DNA (string,); you need to get the other complementary side. DNA strand is never empty or there is no DNA at all.
 6. [countingDuplicates.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/countingDuplicates.js): Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
+7. [findCapital.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/findCapital.js): Find the capitals.
 
 <br><br>
 ---
