@@ -22,42 +22,39 @@
 3
 """
 
-import sys
-sys.setrecursionlimit(10 ** 7)
+# def memoize(f):
+#     cache = [0] * 1000001
+#     def wrapper(k):
+#         v = cache[k]
+#         if v == 0:
+#             v = cache[k] = f(k)
+#         return v
+#     return wrapper
 
 
-def minimum_calc(n):
-    cache = [0 for _ in range(n+1)]
+# INF = 1000001
 
-    def calc(n):
-        # 기저사례
-        if n == 1:
-            cache[n] = 0
-            return 0
-        elif n == 2 or n == 3:
-            cache[n] = 1
-            return 1
-        elif cache[n] != 0:
-            return cache[n]
-        # 재귀호출
-        else:
-            if n % 6 == 0:
-                cache[n] = min(calc(n//2), calc(n//3), calc(n-1)) +1
-                return cache[n]
-            elif n % 2 == 0:
-                cache[n] = min(calc(n//2), calc(n-1)) +1
-                return cache[n]
-            elif n % 3 == 0:
-                cache[n] = min(calc(n//3), calc(n-1)) +1
-                return cache[n]
-            else:
-                cache[n] = calc(n-1) + 1
-                return cache[n]
-    
-    calc(n)
-    return cache[n]        
+def solution(n):
+    count = 0
+    to_search = [n]
+    def calc(to_search):
+        tmp = []
+        for num in to_search:
+            tmp.append(num-1)
+            if num % 3 == 0:
+                tmp.append(num//3)
+            if num % 2 == 0:
+                tmp.append(num//2)
+        return tmp
+
+    while n > 1:
+        to_search = calc(to_search)
+        count += 1
+        if min(to_search) == 1:
+            break
+    return count
 
 
 if __name__ == "__main__":
-    n = int(input())
-    print(minimum_calc(n))
+    N = int(input())
+    print(solution(N))
