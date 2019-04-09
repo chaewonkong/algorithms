@@ -82,6 +82,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 45. [1932.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1932.py): 정수 삼각형
 46. [1003.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1003.py): 피보나치 함수
 47. [1780.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1780.py): 종이의 개수
+48. [1874.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1874.py): 스택 수열
 
 <br><br>
 ### CodeWars
