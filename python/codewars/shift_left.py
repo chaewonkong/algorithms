@@ -19,7 +19,6 @@ that should be performed to make the given strings equal.
 
 
 def shift_left(a, b):    
-
     list_a = [c for c in a]
     list_b = [c for c in b]
     list_a.reverse()
