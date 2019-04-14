@@ -15,6 +15,7 @@
 6. [countingDuplicates.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/countingDuplicates.js): Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
 7. [findCapital.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/findCapital.js): Find the capitals.
 8. [vowelCount.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/vowelCount.js): Vowel Count.
+9. [sudokuValidiator.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/sudokuValidiator.js): Sudoku Solution Validator
 
 
 ---
