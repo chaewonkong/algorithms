@@ -239,6 +239,7 @@ Algorithms for projecteuler.net
 7. [findCapital.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/findCapital.js): Find the capitals.
 8. [vowelCount.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/vowelCount.js): Vowel Count.
 9. [sudokuValidiator.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/sudokuValidiator.js): Sudoku Solution Validator
+10. [largeFactorials.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/largeFactorials.js): Large Factorials
 
 <br><br>
 ---
