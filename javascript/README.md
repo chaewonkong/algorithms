@@ -17,6 +17,7 @@
 8. [vowelCount.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/vowelCount.js): Vowel Count.
 9. [sudokuValidiator.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/sudokuValidiator.js): Sudoku Solution Validator
 10. [largeFactorials.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/largeFactorials.js): Large Factorials
+11. [findUniqueNum.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/findUniqueNum.js): Find the unique number
 
 
 ---
