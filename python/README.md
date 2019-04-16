@@ -177,6 +177,7 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 14. [zero_in_factorial.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/zero_in_factorial.py): Continuous trailing zeros in n factorial.
 15. [permutation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/permutation.py): All possible combinations with order(permutation)
 16. [fibonacci.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/fibonacci.py): Fibonacci Algorithms in Python
+17. [longest_palindrome.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/longest_palindrome.py): Longest Palindrome
 
 <br><br>
 ## Project Euler

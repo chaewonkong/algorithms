@@ -43,14 +43,37 @@ N×N크기의 행렬로 표현되는 종이가 있다.
 """
 
 
-def paper_counter(arr):
+def paper_counter(matrix):
+    count = {"-1": 0, "0": 0, "1": 0}
+    N = len(matrix)
+
+    def is_all_same(r, c, size, target):
+        for dr in range(size):
+            for dc in range(size):
+                if matrix[r+dr][c+dc] != target:
+                    return False
+        return True
+
+    def get_count(r, c, size):
+        target = matrix[r][c]
+        if size == 1 or is_all_same(r, c, size, target):
+            count[target] += 1
+        else:
+            size //= 3
+            for i in range(3):
+                for j in range(3):
+                    get_count(r + size * i, c + size * j, size)
+
+    get_count(0, 0, N)
+    keys = sorted(list(count.keys()))
     
+    return [count[key] for key in keys]
 
 
 if __name__ == "__main__":
     N = int(input())
-    arr = []
+    matrix = []
     for _ in range(N):
-        arr.append(input().split())
-
-    
+        matrix.append(input().split())
+    ret = paper_counter(matrix)
+    [print(x) for x in ret]
