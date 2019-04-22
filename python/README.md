@@ -85,6 +85,7 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 47. [1780.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1780.py): 종이의 개수
 48. [1874.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1874.py): 스택 수열
 49. [1992.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1992.py): 쿼드트리
+50. [2747.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2747.py): 피보나치 수
 
 <br><br>
 ## CodeWars
