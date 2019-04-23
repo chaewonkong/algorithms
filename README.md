@@ -177,6 +177,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 15. [permutation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/permutation.py): All possible combinations with order(permutation)
 16. [fibonacci.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/fibonacci.py): Fibonacci Algorithms in Python
 17. [longest_palindrome.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/longest_palindrome.py): Longest Palindrome
+18. [min_compensation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/min_compensation.py): Minimum Compensation
 
 <br><br>
 ### Project Euler
