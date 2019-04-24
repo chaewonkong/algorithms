@@ -246,6 +246,7 @@ Algorithms for projecteuler.net
 10. [largeFactorials.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/largeFactorials.js): Large Factorials
 11. [findUniqueNum.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/findUniqueNum.js): Find the unique number
 12. [sortOddNumber.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/findUniqueNum.js): Sort the Odd
+13. [isAlphanumeric.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/isAlphanumeric.js): Not very secure
 
 <br><br>
 ---
