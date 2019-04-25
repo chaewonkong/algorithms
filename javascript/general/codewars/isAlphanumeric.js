@@ -13,5 +13,6 @@ and digits from 0 to 9
 */
 
 function alphanumeric(string) {
-  return string.match(/^[a-z0-9]+$/i) ? true : false;
+  // return string.match(/^[a-z0-9]+$/i) ? true : false;
+  return /^[a-z0-9]+$/i.test(string);
 }
