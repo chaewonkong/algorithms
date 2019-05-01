@@ -20,7 +20,8 @@
 11. [findUniqueNum.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/findUniqueNum.js): Find the unique number
 12. [sortOddNumber.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/findUniqueNum.js): Sort the Odd
 13. [isAlphanumeric.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/isAlphanumeric.js): Not very secure
-14. [fibProduct.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/isAlphanumeric.js): Product of consecutive Fib numbers
+14. [fibProduct.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/fibProduct.js): Product of consecutive Fib numbers
+15. [moveZeros.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/moveZeros.js): Remove Zeros
 
 
 ---
