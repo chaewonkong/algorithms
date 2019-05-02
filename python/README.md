@@ -86,6 +86,7 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 48. [1874.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1874.py): 스택 수열
 49. [1992.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1992.py): 쿼드트리
 50. [2747.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2747.py): 피보나치 수
+51. [1268.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1268.py): 임시 반장 정하기
 
 <br><br>
 ## CodeWars
