@@ -26,4 +26,5 @@
 
 ---
 ## sort
-1. mergeSort.js: Sort algorithm that has time complexity of O(lgn). Uses divide and conquer.
+1. [mergeSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/mergeSort.js): Sort algorithm that has time complexity of O(lgn). Uses divide and conquer.
+2. [insertionSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/insertionSort.js): Insertion Sort: At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there.
