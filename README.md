@@ -1,24 +1,28 @@
 # Algorithm
+
 Python, JavaScript, TypeScript
 
 ---
 
 # Python
+
 his repository is for Python algorithm study. It contains algorithm solutions from basic algorithms like sort, search, stack and etc, to corporate coding test problems.
 
 ## Directories
-- :file_folder: [algospot](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/algorithm-PSS): Problems and Practices for **_Algorithmic Problem Solving Strategies_**. Although his directory is mainly written in Python, it may contain some codes that are written with JavaScript.
+
+- :file*folder: [algospot](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/algorithm-PSS): Problems and Practices for \*\*\_Algorithmic Problem Solving Strategies*\*\*. Although his directory is mainly written in Python, it may contain some codes that are written with JavaScript.
 - :file_folder: [boj](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/boj): Baekjoon Online judge(https://www.acmicpc.net/) solutions. BOJ is a well-known korean algorithm website.
 - :file_folder: [codewars](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/codewars)
 - :file_folder: [data_structure](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/data_structure)
 - :file_folder: [kakao-test](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/algorithm-PSS): Kakao coding test solutions.
 - :file_folder: [sort](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/sort): Sort algorithms.
-- :file_folder: [algorithm_for_everyone](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/algorithm_for_everyone): Solutions and practices for **_Algorithm for Everyone with Python_**. 
+- :file*folder: [algorithm_for_everyone](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/algorithm_for_everyone): Solutions and practices for \*\*\_Algorithm for Everyone with Python*\*\*.
 - :file_folder: [etc](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/etc): Algorithms that are not sorted yet.
 - :file_folder: [project_euler](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/project_euler): Solutions for algorithms from Proejct Euler(https://projecteuler.net/) website.
 - :file_folder: [recursion](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/recursion)
 - :file_folder: [divide_and_conquer](https://github.com/ChaeWonKong/algorithm-with-python/tree/master/recursion): Divide and conquer algorithms
-<br><br>
+  <br><br>
+
 ---
 
 <br>
@@ -35,6 +39,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 <br><br>
 
 ### BOJ (BaekJoon Online Judge: algorithm solutions)
+
 1. [1011.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1011.py): Fly me to the Alpha Centauri
 2. [1024.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1024.py): 수열의 합
 3. [1065.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1065.py): 한수
@@ -88,7 +93,9 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 51. [1268.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1268.py): 임시 반장 정하기
 
 <br><br>
+
 ### CodeWars
+
 1. [all_balanced_parenthesis](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/all_balanced_parenthesis.py)
 2. [vasya_clerk.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/vasya_clerk.py)
 3. [parity_outlier.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/parity_outlier.py)
@@ -98,7 +105,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 7. [roman_numerals_encoder.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/roman_numerals_encoder.py): Roman Numerals Encoder
 8. [find_missing_letter.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/roman_numerals_encoder.py): Write a method that takes an array of consecutive (increasing) letters as input and that returns the missing letter in the array.
 9. [pete_the_baker.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/pete_the_baker.py): Pete, the baker. Return how many cakes he could bake considering his recipes?
-10. [valid_parenthesis.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/valid_parenthesis.py): Write a function called that takes a string of parentheses, and determines if the order of the parentheses is valid. 
+10. [valid_parenthesis.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/valid_parenthesis.py): Write a function called that takes a string of parentheses, and determines if the order of the parentheses is valid.
 11. [memoized_fibonacci.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/memoized_fibonacci.py): Fibonacci using dynamic programming.
 12. [simple_palindrome_game.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/simple_palindrome_game.py): Simple Palindrome Game.
 13. [random_triplets_secret.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/random_triplets_secret.py): Recover a secret string from random triplets.
@@ -118,17 +125,19 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 27. [is_perfect_power.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/is_perfect_power.py): What's a Perfect Power anyway?
 28. [shift_left.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/shift_left.py): Shift Left
 
-
-
-
 <br><br>
+
 ### Data Structure
+
 1. [binary_tree.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/data_structure/binary_tree.py): Pre-order, in-order, post-order traverse.
 2. [graph.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/data_structure/graph.py): DFS, BFS.
 
 <br><br>
+
 ### Kakao Test
+
 1th Kakao Algorithm Test
+
 1. [secret_map.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/kakao-test/secret_map.py): Decode given two arrays and return one array with whitespaces and hashes.
 2. [dart_game.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/kakao-test/dart_game.py): Convert total score by given rules from string input.
 3. [cache.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/kakao-test/cache.py): Return run time for processing given array by using LRU Caching algorithm.
@@ -137,7 +146,9 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 6. [filename_sort.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/kakao-test/filename_sort.py): Return sorted files in array format.
 
 <br><br>
+
 ### Sort
+
 1. [insertion_sort.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/sort/insertion_sort.py): Sort by Building the final sorted list one item at a time.
 2. [radix_sort.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/sort/radix_sort.py): sort the given list of integers by sorting from least digit to most significant digit.
 3. [selection_sort.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/sort/selection_sort.py): Divide input list into sorted, unsorted sublist, and extract min/max from the unsorted and append it to the sorted. When there is no more element in unsorted, return sorted.
@@ -146,7 +157,9 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 6. [counting_sort.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/sort/counting_sort.py): Sort given array by counting the number of objects that have each distinct key value, and using arithmetic on those counts to determine the positions of each key value in the output sequence.
 
 <br><br>
+
 ### Algorithm for Everyone (Korean book of Python algorithm)
+
 1. [factorial.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/algorithm_for_everyone/factorial.py)
 2. [fibonacci.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/algorithm_for_everyone/fibonacci.py)
 3. [gcd_euclid.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/algorithm_for_everyone/gcd_euclid.py): 유클리드 공식을 이용한 최대공약수 구하기
@@ -158,9 +171,10 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 9. [selection_sort.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/algorithm_for_everyone/selection_sort.py)
 10. [tower_of_hanoi.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/algorithm_for_everyone/tower_of_hanoi.py)
 
-
 <br><br>
+
 ### etc
+
 1. [anagram_hard.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/anagram_hard.py) :is_anagram using merge sort.
 2. [anagram.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/anagram.py): For given two words, if one is anagram of the other, return True. Otherwise return False.
 3. [count_divisors.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/count_divisors.py): Return number of divisors for given number n
@@ -181,11 +195,14 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 18. [min_compensation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/min_compensation.py): Minimum Compensation
 
 <br><br>
+
 ### Project Euler
+
 Algorithms for projecteuler.net
+
 1. [no_1.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/project_euler/no_1.py): Sum of multiples of 3 and multiples of 5
 2. [no_2.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/project_euler/no_2.py): Sum of even numbers in fibonacci sequence
-3. [no_3.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/project_euler/no_3.py):	Largest prime factor
+3. [no_3.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/project_euler/no_3.py): Largest prime factor
 4. [no_4.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/project_euler/no_4.py): Largest palindrome number product
 5. [no_5.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/project_euler/no_5.py): Smallest multiple
 6. [no_6.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/project_euler/no_6.py): Difference of sum-of-squares and square-of-sum
@@ -208,25 +225,31 @@ Algorithms for projecteuler.net
 23. [no_24.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/project_euler/no_24.py): millionth lexicographic permutation
 
 ### Recursion
+
 1. [is_palindrome.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/recursion/is_palindrome.py)
 2. [letter_permutation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/recursion/letter_permutation.py)
 
 ### divide_and_conquer
+
 2. [fast_sum.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/divide_and_conquer/fast_sum.py): fast sum using divide and conquer.
 
-
-
 ---
+
 <br><br><br><br>
+
 # JavaScript
+
 ## Directories
+
 1. general: algorithms from codewars, acmicpc, etc.
 2. sort
 
-
 <br><br>
+
 ## files
+
 ### general
+
 1. binarySearch.js: Binary Search in JS.
 2. mapWithReduce.js: map function created with reduce method.
 3. variance.js: Variance algorithm in JS.
@@ -234,7 +257,9 @@ Algorithms for projecteuler.net
 5. isPrime.js: dividing through 2 to root n, returns boolean result for number n whether prime or not.
 
 <br><br>
+
 ### codewars
+
 1. [jadenCasingStrings.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/jadenCasingStrings.js): Make first letter in every words to be upper case.
 2. [unique_in_order.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/unique_in_order.js): takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.
 3. [stringIncrementer.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/stringIncrementer.js): Your job is to write a function which increments a string, to create a new string. If the string already ends with a number, the number should be incremented by 1. If the string does not end with a number the number 1 should be appended to the new string.
@@ -250,25 +275,30 @@ Algorithms for projecteuler.net
 13. [isAlphanumeric.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/isAlphanumeric.js): Not very secure
 14. [fibProduct.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/fibProduct.js): Product of consecutive Fib numbers
 15. [moveZeros.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/moveZeros.js): Remove Zeros
+16. [quickReverse.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/quickReverse.js): Reverse it, quickly!
 
-<br><br>
----
+## <br><br>
+
 ## sort
+
 1. [mergeSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/mergeSort.js): Sort algorithm that has time complexity of O(lgn). Uses divide and conquer.
 2. [insertionSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/insertionSort.js): Insertion Sort: At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there.
 3. [radixSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/radixSort.js): sort data with integer keys by grouping keys by the individual digits which share the same significant position and value.
 
-
-
 ---
+
 <br><br>
+
 # TypeScript
 
 ## Directories
+
 1. codewars: algorithms from codewars.com
 
 ## files
+
 ### codewars
+
 1. [descendingOrder](https://github.com/ChaeWonKong/algorithms/blob/master/typescript/codewars/descendingOrder.ts).ts: Descending Order
 2. 2. [findNeedle.ts](https://github.com/ChaeWonKong/algorithms/blob/master/typescript/codewars/findNeedle.ts): A Needle in the Haystack
 3. 3. [duplicateEncoder.ts](https://github.com/ChaeWonKong/algorithms/blob/master/typescript/codewars/duplicateEncoder.ts): Duplicate Encoder

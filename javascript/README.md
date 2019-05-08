@@ -1,12 +1,15 @@
 # Algorithm With JavaScript
 
 ## general
+
 1. binarySearch.js: Binary Search in JS.
 2. mapWithReduce.js: map function created with reduce method.
 3. variance.js: Variance algorithm in JS.
 4. combinations: Get all possible combinations from given arr.
 5. isPrime.js: dividing through 2 to root n, returns boolean result for number n whether prime or not.
+
 ### codewars
+
 1. [jadenCasingStrings.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/jadenCasingStrings.js): Make first letter in every words to be upper case.
 2. [unique_in_order.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/unique_in_order.js): takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.
 3. [stringIncrementer.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/stringIncrementer.js): Your job is to write a function which increments a string, to create a new string. If the string already ends with a number, the number should be incremented by 1. If the string does not end with a number the number 1 should be appended to the new string.
@@ -22,10 +25,12 @@
 13. [isAlphanumeric.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/isAlphanumeric.js): Not very secure
 14. [fibProduct.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/fibProduct.js): Product of consecutive Fib numbers
 15. [moveZeros.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/moveZeros.js): Remove Zeros
-
+16. [quickReverse.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/general/codewars/quickReverse.js): Reverse it, quickly!
 
 ---
+
 ## sort
+
 1. [mergeSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/mergeSort.js): Sort algorithm that has time complexity of O(lgn). Uses divide and conquer.
 2. [insertionSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/insertionSort.js): Insertion Sort: At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there.
 3. [radixSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/radixSort.js): sort data with integer keys by grouping keys by the individual digits which share the same significant position and value.
