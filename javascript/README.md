@@ -34,3 +34,4 @@
 1. [mergeSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/mergeSort.js): Sort algorithm that has time complexity of O(lgn). Uses divide and conquer.
 2. [insertionSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/insertionSort.js): Insertion Sort: At each iteration, insertion sort removes one element from the input data, finds the location it belongs within the sorted list, and inserts it there.
 3. [radixSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/radixSort.js): sort data with integer keys by grouping keys by the individual digits which share the same significant position and value.
+4. [selectionSort.js](https://github.com/ChaeWonKong/algorithmWithJS/blob/master/sort/selectionSort.js): Sort given array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. 
