@@ -124,6 +124,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 26. [2nd_largest_int.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/2nd_largest_int.py): Find the 2nd largest integer in array
 27. [is_perfect_power.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/is_perfect_power.py): What's a Perfect Power anyway?
 28. [shift_left.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/shift_left.py): Shift Left
+29. [structure_comparison.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/https://github.com/ChaeWonKong/algorithm-with-python/blob/master/codewars/structure_comparison.py): Nesting Structure Comparison
 
 <br><br>
 
