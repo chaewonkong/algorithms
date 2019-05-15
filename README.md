@@ -92,6 +92,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 50. [2747.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2747.py): 피보나치 수
 51. [1268.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1268.py): 임시 반장 정하기
 52. [2108.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2108.py): 통계학
+53. [2579.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2579.py): 계단 오르기
 
 <br><br>
 
