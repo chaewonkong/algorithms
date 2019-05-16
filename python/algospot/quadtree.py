@@ -49,18 +49,18 @@ xxbwwbbbw
 xxwbxwwxbbwwbwbxwbwwxwwwxbbwb
 """
 
-def reversed_quadtree(s):
-    def divide(s, l):
-        for i in range(len(s)):
-            
-        return l
+# def reversed_quadtree(s):
+#     def divide(s, l):
+#         for i in range(len(s)):
 
-    def reverse():
-        pass
-    def merge():
-        pass
-    return divide(s, [])
-print(reversed_quadtree("xxbwwbbbw"))
+#         return l
+
+#     def reverse():
+#         pass
+#     def merge():
+#         pass
+#     return divide(s, [])
+# print(reversed_quadtree("xxbwwbbbw"))
 
 """
 def quadtree_upside_down(comp):
@@ -90,3 +90,40 @@ def quadtree_upside_down(comp):
     return search_part()"""
 
 
+def reverse_quadtree(case):
+    ret = ""
+    idx = 0
+
+    def reverse():
+        nonlocal idx
+
+        head = case[idx]
+        idx += 1
+        if head == "b" or head == "w":
+            return head
+
+        upper_left = reverse()
+        upper_right = reverse()
+        lower_left = reverse()
+        lower_right = reverse()
+
+        return "x" + lower_left + lower_right + upper_left + upper_right
+
+    ret += reverse()
+    return ret
+
+
+def test(sol, ans):
+    return True if sol == ans else (False, "Sol: {}    Ans: {}".format(sol, ans))
+
+
+if __name__ == "__main__":
+    TEST_CASES = [
+        ["w", "w"],
+        ["xbwwb", "xwbbw"],
+        ["xbwxwbbwb", "xxbwwbbbw"],
+        ["xxwwwbxwxwbbbwwxxxwwbbbwwwwbb", "xxwbxwwxbbwwbwbxwbwwxwwwxbbwb"]
+    ]
+
+    for (case, ans) in TEST_CASES:
+        print(test(reverse_quadtree(case), ans))
