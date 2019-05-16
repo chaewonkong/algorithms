@@ -89,6 +89,7 @@ This repository is for Python algorithm study. It contains algorithm solutions f
 51. [1268.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1268.py): 임시 반장 정하기
 52. [2108.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2108.py): 통계학
 53. [2579.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2579.py): 계단 오르기
+54. [2504.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2504.py): 괄호의 값
 
 <br><br>
 ## CodeWars
