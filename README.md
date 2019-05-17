@@ -94,6 +94,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 52. [2108.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2108.py): 통계학
 53. [2579.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2579.py): 계단 오르기
 54. [2504.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2504.py): 괄호의 값
+55. [2749.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2749.py): 피보나치 수 (행렬곱을 이용한 피보나치 수)
 
 <br><br>
 
@@ -197,6 +198,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 16. [fibonacci.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/fibonacci.py): Fibonacci Algorithms in Python
 17. [longest_palindrome.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/longest_palindrome.py): Longest Palindrome
 18. [min_compensation.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/min_compensation.py): Minimum Compensation
+19. [fib_matrix.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/etc/fib_matrix.py):Fibonacci Algorithm Using Multiplication of Matrix
 
 <br><br>
 
