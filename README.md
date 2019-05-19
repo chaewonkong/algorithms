@@ -96,6 +96,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 54. [2504.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2504.py): 괄호의 값
 55. [2749.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2749.py): 피보나치 수 (행렬곱을 이용한 피보나치 수)
 56. [1016.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1016.py): 제곱ㄴㄴ수
+57. [2293.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2293.py): 동전 1
 
 <br><br>
 
