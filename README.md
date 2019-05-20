@@ -97,6 +97,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 55. [2749.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2749.py): 피보나치 수 (행렬곱을 이용한 피보나치 수)
 56. [1016.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1016.py): 제곱ㄴㄴ수
 57. [2293.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2293.py): 동전 1
+58. [2156.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2156.py): 포도주 시식
 
 <br><br>
 
