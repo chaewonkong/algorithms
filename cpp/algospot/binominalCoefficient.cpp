@@ -10,7 +10,7 @@
 
 // Binominal Coefficient with Memoization
 
-int cache[30][30] = {-1};
+int cache[30][30];
 
 int bino(int n, int r)
 {
@@ -23,13 +23,8 @@ int bino(int n, int r)
 
 int main(void)
 {
-    for (int i = 0; i < 30; i++)
-    {
-        for (int j = 0; j < 30; j++)
-        {
-            memset(cache[i], -1, sizeof(int) * 30);
-        }
-    }
+    memset(cache, -1, sizeof(cache));
+
     int n, r;
     std::cin >> n >> r;
     std::cout << bino(n, r) << std::endl;

@@ -325,4 +325,5 @@ Algorithms for projecteuler.net
 
 ## files
 ### algospot
-1. [binominal_coefficient.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/algospot/binominal_coefficient.cpp): Binominal coefficient with memoization
+1. [binominalCoefficient.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/algospot/binominalCoefficient.cpp): Binominal coefficient with memoization
+2. [jumpGame.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/algospot/binominalCoefficient.cpp): JUMPGAME
