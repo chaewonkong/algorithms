@@ -66,8 +66,7 @@ int main(void)
                 if (triangle[i][j] < 1 || triangle[i][j] > 100000)
                     exit(-1);
             }
-        cout << path(0, 0) << endl
-             << endl;
+        cout << path(0, 0) << endl;
     }
     return 0;
 }
