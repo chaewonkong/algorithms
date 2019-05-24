@@ -98,6 +98,7 @@ his repository is for Python algorithm study. It contains algorithm solutions fr
 56. [1016.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/1016.py): 제곱ㄴㄴ수
 57. [2293.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2293.py): 동전 1
 58. [2156.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2156.py): 포도주 시식
+59. [2908.py](https://github.com/ChaeWonKong/algorithm-with-python/blob/master/boj/2908.py): 외판원 순회
 
 <br><br>
 
