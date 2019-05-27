@@ -315,17 +315,25 @@ Algorithms for projecteuler.net
 3. 3. [duplicateEncoder.ts](https://github.com/ChaeWonKong/algorithms/blob/master/typescript/codewars/duplicateEncoder.ts): Duplicate Encoder
 4. [findOddInt.ts](https://github.com/ChaeWonKong/algorithms/blob/master/typescript/codewars/findOddInt.ts): Find the odd int
 5. [predictAge.ts](https://github.com/ChaeWonKong/algorithms/blob/master/typescript/codewars/predictAge.ts)
-<br><br><br><br>
+   <br><br><br><br>
 
 # C++
 
 ## Directories
+
 1. algospot
+2. general
 
 <br><br>
 
 ## files
+
 ### algospot
+
 1. [binominalCoefficient.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/algospot/binominalCoefficient.cpp): Binominal coefficient with memoization
 2. [jumpGame.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/algospot/binominalCoefficient.cpp): JUMPGAME
 3. [wildcard.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/algospot/wildcard.cpp): WILDCARD
+
+### general
+
+[factorial.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/general/factorial.cpp): factorial calculator
