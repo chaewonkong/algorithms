@@ -321,8 +321,9 @@ Algorithms for projecteuler.net
 
 ## Directories
 
-1. algospot
-2. general
+1. algospot: problems from algospot.com
+2. boj: problems from acmicpc.net(Baekjoon Online Judge)
+3. general
 
 <br><br>
 
@@ -334,6 +335,10 @@ Algorithms for projecteuler.net
 2. [jumpGame.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/algospot/binominalCoefficient.cpp): JUMPGAME
 3. [wildcard.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/algospot/wildcard.cpp): WILDCARD
 
+### boj
+1. [2098.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2098.cpp): 외판원 순회(TSP)
+2. [9251.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/9251.cpp): LCS
+
 ### general
 
-[factorial.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/general/factorial.cpp): factorial calculator
+1.[factorial.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/general/factorial.cpp): factorial calculator
