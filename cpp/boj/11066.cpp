@@ -23,7 +23,7 @@ T는 입력의 맨 첫 줄에 주어진다.
 #include <cstring>
 using namespace std;
 
-const int INTMAX = 2100000000;
+const int INTMAX = 9876543210;
 
 int T, K, cost[501];
 int cache[501][501];
@@ -34,9 +34,9 @@ int sumFIle(int i, int j)
     if (i == j)
         return 0;
     int ret = INTMAX;
-    for (int k = 0; k < abs(i - j); k++)
+    for (int k = i; k < j; k++)
     {
-        ret = min(ret, cache[i][i + k] + cache[i + k + 1][j] + sum[j] - sum[i - 1]);
+        ret = min(ret, cache[i][k] + cache[k + 1][j] + sum[j] - sum[i - 1]);
     }
     return ret;
 }
@@ -64,3 +64,5 @@ int main(void)
     }
     return 0;
 }
+
+// 참고 풀이: https://deque.tistory.com/14
