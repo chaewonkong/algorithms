@@ -340,6 +340,8 @@ Algorithms for projecteuler.net
 2. [9251.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/9251.cpp): LCS
 3. [11066.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11066.cpp): 파일 합치기
 4. [2775.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2775.cpp): 부녀회장이 될테야
+5. [1934.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1934.cpp): 최소공배수
+6. [13241.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/13241.cpp): 최소공배수
 
 ### general
 
