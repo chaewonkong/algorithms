@@ -343,6 +343,7 @@ Algorithms for projecteuler.net
 5. [1934.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1934.cpp): 최소공배수
 6. [13241.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/13241.cpp): 최소공배수
 7. [3036.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/3036.cpp): 링
+8. [1475.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/3036.cpp): 방 번호
 
 ### general
 
