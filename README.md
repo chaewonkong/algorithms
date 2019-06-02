@@ -346,6 +346,7 @@ Algorithms for projecteuler.net
 8. [1475.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/3036.cpp): 방 번호
 9. [10872.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10872.cpp): 팩토리얼
 10. [11050.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11050.cpp): 이항 계수 1
+11. [10845.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10845.cpp): 큐
 
 ### general
 

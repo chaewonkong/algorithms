@@ -1,14 +1,6 @@
 #include <iostream>
-#include <string.h>
-
-// int bino(int n, int r)
-// {
-//     if (r == 0 || n == r)
-//         return 1;
-//     return bino(n - 1, r - 1) + bino(n - 1, r);
-// }
-
-// Binominal Coefficient with Memoization
+#include <cstring>
+using namespace std;
 
 int cache[30][30];
 
@@ -26,7 +18,7 @@ int main(void)
     memset(cache, -1, sizeof(cache));
 
     int n, r;
-    std::cin >> n >> r;
-    std::cout << bino(n, r) << std::endl;
+    cin >> n >> r;
+    cout << bino(n, r) << endl;
     return 0;
 }
