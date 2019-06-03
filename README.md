@@ -349,6 +349,7 @@ Algorithms for projecteuler.net
 11. [10845.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10845.cpp): 큐
 12. [2455.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2455.cpp): 지능형 기차
 13. [1094.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1094.cpp): 막대기
+14. [1057.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1057.cpp): 토너먼트
 
 ### general
 
