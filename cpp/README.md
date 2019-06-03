@@ -28,6 +28,7 @@
 9. [10872.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10872.cpp): 팩토리얼
 10. [11050.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11050.cpp): 이항 계수 1
 11. [10845.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10845.cpp): 큐
+12. [2455.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2455.cpp): 지능형 기차
 
 ### general
 
