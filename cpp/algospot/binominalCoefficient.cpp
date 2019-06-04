@@ -2,9 +2,9 @@
 #include <cstring>
 using namespace std;
 
-int cache[30][30];
+long long int cache[30][30];
 
-int bino(int n, int r)
+long long int bino(int n, int r)
 {
     if (r == 0 || n == r)
         return 1;
