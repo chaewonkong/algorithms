@@ -353,6 +353,7 @@ Algorithms for projecteuler.net
 15. [3053.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/3053.cpp): 택시 기하학
 16. [1547.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/3053.cpp): 공
 17. [1427.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1427.cpp): 소트인사이드
+18. [1037.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1037.cpp): 약수
 
 ### general
 
