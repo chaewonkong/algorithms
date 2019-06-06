@@ -8,6 +8,9 @@
         "limits": "cpp",
         "ratio": "cpp",
         "__bit_reference": "cpp",
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "iosfwd": "cpp",
+        "iterator": "cpp",
+        "vector": "cpp"
     }
 }
