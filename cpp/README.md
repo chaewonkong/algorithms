@@ -39,7 +39,8 @@
 20. [1100.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1100.cpp): 하얀 칸
 21. [2490.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2490.cpp): 윷놀이
 22. [10950.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10950.cpp): A+B - 3
-23. [10950.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10950.cpp): A+B - 5
+23. [10952.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10952.cpp): A+B - 5
+24. [1476.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1476.cpp): 날짜 계산
 
 ### general
 
