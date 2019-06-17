@@ -41,6 +41,7 @@
 22. [10950.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10950.cpp): A+B - 3
 23. [10952.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10952.cpp): A+B - 5
 24. [1476.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1476.cpp): 날짜 계산
+25. [11365.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11365.cpp): !밀비 급일
 
 ### general
 
