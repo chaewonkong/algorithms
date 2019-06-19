@@ -34,12 +34,14 @@ import sys
 sys.setrecursionlimit(10**6)
 
 INF = 987654321
+
+
 def minimum_cost(costs):
 
     N = len(costs)
     COLORS = len(costs[0])
     cache = [[-1 for _ in range(COLORS)] for _ in range(N)]
-    
+
     def calc_cost(n, c):
         if n < 0:
             return 0

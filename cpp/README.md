@@ -43,6 +43,7 @@
 24. [1476.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1476.cpp): 날짜 계산
 25. [11365.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11365.cpp): !밀비 급일
 26. [2902.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2902.cpp): KMP는 왜 KMP일까?
+27. [1018.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1018.cpp): 체스판 다시 칠하기
 
 ### general
 
