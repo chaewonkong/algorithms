@@ -11,6 +11,12 @@
         "bitset": "cpp",
         "iosfwd": "cpp",
         "iterator": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "__split_buffer": "cpp",
+        "deque": "cpp",
+        "initializer_list": "cpp",
+        "ios": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
     }
 }
