@@ -1,0 +1,42 @@
+{
+  "editor.fontSize": 16,
+  "window.zoomLevel": 0,
+  "editor.renderControlCharacters": true,
+  "open-in-browser.default": "chrome",
+  "emmet.triggerExpansionOnTab": true,
+  "markdown.extension.preview.autoShowPreviewToSide": true,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "C_Cpp.default.compilerPath": "/usr/bin/g++",
+  "editor.formatOnSave": true,
+  "terminal.integrated.shell.osx": "zsh",
+  "terminal.integrated.fontSize": 16,
+  "editor.fontFamily": "Ubuntu Mono derivative Powerline",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "prettier.tslintIntegration": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "C_Cpp.default.cppStandard": "c++14",
+  "C_Cpp.default.cStandard": "c11",
+  "C_Cpp.default.intelliSenseMode": "clang-x64",
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "C_Cpp.updateChannel": "Insiders",
+  "workbench.colorTheme": "Material Theme Darker",
+  "workbench.colorCustomizations": {},
+  "materialTheme.accent": "Acid Lime",
+  "editor.tokenColorCustomizations": {
+    "comments": "#7f7f7f",
+    "textMateRules": [
+      {
+        "scope": "string.quoted.docstring.multi.python",
+        "settings": {
+          "foreground": "#7f7f7f" //change to your preference
+        }
+      }
+    ]
+  },
+  "C_Cpp.clang_format_fallbackStyle": "Google"
+}
