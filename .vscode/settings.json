@@ -17,6 +17,7 @@
         "initializer_list": "cpp",
         "ios": "cpp",
         "string": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "iostream": "cpp"
     }
 }
