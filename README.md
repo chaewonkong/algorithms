@@ -323,7 +323,8 @@ Algorithms for projecteuler.net
 
 1. algospot: problems from algospot.com
 2. boj: problems from acmicpc.net(Baekjoon Online Judge)
-3. general
+3. codewars: problems from codewars.com
+4. general
 
 <br><br>
 
@@ -367,6 +368,9 @@ Algorithms for projecteuler.net
 29. [1074.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1074.cpp): Z
 30. [2447.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2447.cpp): 별 찍기 - 10
 31. [2312.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2312.cpp): 수 복원하기
+
+### codewars
+1.[bitCounting.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/codewars/bitCounting.cpp): Bit Counting
 
 ### general
 
