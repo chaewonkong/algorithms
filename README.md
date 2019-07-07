@@ -368,6 +368,9 @@ Algorithms for projecteuler.net
 29. [1074.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/1074.cpp): Z
 30. [2447.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2447.cpp): 별 찍기 - 10
 31. [2312.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2312.cpp): 수 복원하기
+32. [10953.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10953.cpp): A+B - 6
+33. [11021.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11021.cpp): A+B - 7
+34. [11022.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11022.cpp): A+B - 8
 
 ### codewars
 1.[bitCounting.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/codewars/bitCounting.cpp): Bit Counting
