@@ -53,6 +53,7 @@
 33. [11021.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11021.cpp): A+B - 7
 34.  [11022.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11022.cpp): A+B - 8
 35.  [15439.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/15439.cpp): Vera and Outfits
+36. [14581.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/14581.cpp): 팬들에게 둘러싸인 홍준
 
 ### codewars
 1.[bitCounting.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/codewars/bitCounting.cpp): Bit Counting
