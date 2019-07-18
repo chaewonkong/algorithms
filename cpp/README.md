@@ -18,6 +18,7 @@
 3. [wildcard.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/algospot/wildcard.cpp): WILDCARD
 
 ### boj
+
 1. [2098.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2098.cpp): 외판원 순회(TSP)
 2. [9251.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/9251.cpp): LCS
 3. [11066.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11066.cpp): 파일 합치기
@@ -51,13 +52,16 @@
 31. [2312.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2312.cpp): 수 복원하기
 32. [10953.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/10953.cpp): A+B - 6
 33. [11021.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11021.cpp): A+B - 7
-34.  [11022.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11022.cpp): A+B - 8
-35.  [15439.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/15439.cpp): Vera and Outfits
+34. [11022.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11022.cpp): A+B - 8
+35. [15439.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/15439.cpp): Vera and Outfits
 36. [14581.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/14581.cpp): 팬들에게 둘러싸인 홍준
 37. [15727.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/15727.cpp): 조별과제를 하려는데 조장이 사라졌다
 38. [9095.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/9095.cpp): 1, 2, 3 더하기
+39. [11722.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11722.cpp): 가장 긴 감소하는 부분 수열
+40. [16170.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/16170.cpp): 오늘의 날짜는?
 
 ### codewars
+
 1.[bitCounting.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/codewars/bitCounting.cpp): Bit Counting
 
 ### general

@@ -337,6 +337,7 @@ Algorithms for projecteuler.net
 3. [wildcard.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/algospot/wildcard.cpp): WILDCARD
 
 ### boj
+
 1. [2098.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/2098.cpp): 외판원 순회(TSP)
 2. [9251.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/9251.cpp): LCS
 3. [11066.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11066.cpp): 파일 합치기
@@ -375,8 +376,11 @@ Algorithms for projecteuler.net
 36. [14581.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/14581.cpp): 팬들에게 둘러싸인 홍준
 37. [15727.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/15727.cpp): 조별과제를 하려는데 조장이 사라졌다
 38. [9095.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/9095.cpp): 1, 2, 3 더하기
+39. [11722.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11722.cpp): 가장 긴 감소하는 부분 수열
+40. [16170.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/16170.cpp): 오늘의 날짜는?
 
 ### codewars
+
 1.[bitCounting.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/codewars/bitCounting.cpp): Bit Counting
 
 ### general
