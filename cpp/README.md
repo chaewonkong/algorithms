@@ -59,6 +59,8 @@
 38. [9095.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/9095.cpp): 1, 2, 3 더하기
 39. [11722.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/11722.cpp): 가장 긴 감소하는 부분 수열
 40. [16170.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/16170.cpp): 오늘의 날짜는?
+41. [15894.cpp](https://github.com/ChaeWonKong/algorithms/blob/master/cpp/boj/15894.cpp): 수학은 체육과목 입니다
+
 
 ### codewars
 
