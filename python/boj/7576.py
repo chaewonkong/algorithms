@@ -72,28 +72,21 @@ def solution(M, N, tomatos):
         return searched
 
     for r in range(N):
-            for c in range(M):
-                if tomatos[r][c] == 1:
-                    queue.append((r,c))
-    # while queue:
-    #     tmp = []
-    #     for r,c in queue:
-    #         for item in search(r,c):
-    #             tmp.append(item)
-    #     queue = tmp[:]
-    #     count += 1
+        for c in range(M):
+            if tomatos[r][c] == 1:
+                queue.append((r, c))
 
     while queue:
         for _ in range(len(queue)):
-            r,c = queue.popleft()
-            for item in search(r,c):
+            r, c = queue.popleft()
+            for item in search(r, c):
                 queue.append(item)
         count += 1
 
     for r in range(N):
-            for c in range(M):
-                if tomatos[r][c] == 0:
-                    return -1
+        for c in range(M):
+            if tomatos[r][c] == 0:
+                return -1
     return count - 1
 
 

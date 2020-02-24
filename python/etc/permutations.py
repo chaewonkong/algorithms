@@ -6,22 +6,22 @@
 M = 3
 N = 3
 
+
 def permutation(m, n):
-    arr = [i for i in range(m)]
+    arr = [str(i) for i in range(m)]
     ret = []
 
     def calc(picked, topick):
         if topick == 0:
-            ret.append(picked[:])
+            ret.append("".join(picked[:]))
             return
-        for i in range(m):
+        for i in range(n):
             if arr[i] not in picked:
                 picked.append(arr[i])
                 calc(picked, topick-1)
-                picked.pop()    
+                picked.pop()
     calc([], n)
     return ret
 
 
 print(permutation(M, N))
-
